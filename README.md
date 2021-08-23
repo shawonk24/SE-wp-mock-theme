@@ -1,5 +1,5 @@
 # SE-wp-mock-theme
-# SE_mock
+
 Install wordpress<br>
 upload the theme<br>
 upload the plugins<br>
